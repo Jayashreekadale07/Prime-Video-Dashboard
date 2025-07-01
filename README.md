@@ -1,5 +1,6 @@
 # Prime-Video-Dashboard
 Explore in-depth analytics of Prime Video performance, viewership trends, and top streaming content. Gain actionable insights to optimize user engagement and content strategy.
+<img src="Prime%20Video.png" alt="Prime Video" width="400"/>
 
 
 
